@@ -2,9 +2,9 @@
 class Dog
  attr_accessor :name
 end
-  Dog.new = fido
+  Dog.new("Fido")
     Dog.name = "Fido"
-  Dog.new = snoopy
+  Dog.new("snoopy")
     Dog.name = "Snoopy"
-  Dog.new = lassie
+  Dog.new("lassie")
     Dog.name = "Lassie"
