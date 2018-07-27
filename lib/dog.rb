@@ -4,9 +4,9 @@ def initialize(name)
   name = @name
 end
 end
-   Dog.new("Fido")
+   fido = Dog.new("Fido")
     
-  Dog.new("snoopy")
+ snoopy = Dog.new("snoopy")
 
-  Dog.new("lassie")
+  lassie = Dog.new("lassie")
    
